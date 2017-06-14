@@ -1,0 +1,17 @@
+{
+  "name": "q",
+  "description": "Small description for q goes here",
+  "main": "",
+  "authors": [
+    "KELVINMUNENE <karvinmitchar@yahoo.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/KELVINMUNENE/Question-Answer",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

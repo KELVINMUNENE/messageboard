@@ -1,0 +1,17 @@
+{
+  "questions": [{
+  "author": "Kelvin Munene",
+  "question": "How Can install gitbash in Parrot Linux?",
+  "additional": "whenever i try to install the CLI dissapers from the screen"
+}, {
+
+  "author": "Maureen Kendi",
+  "question": "How can i shutdown the watchman server?",
+  "additional": "Everytime i  try to run a command it tells me watchman needs your help or connection error,recconecting to watchman"
+}, {
+
+  "author": "John Nyagah",
+  "question": "My github cannot create Repos",
+  "additional": "it keeps telling me Data full i have 34000 repos"
+}]
+}

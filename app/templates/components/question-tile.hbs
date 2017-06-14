@@ -1,0 +1,10 @@
+<li>
+  {{question.question}} by  {{question.author}}
+  {{#if isAdditionalShowing}}
+    <p>{{question.additional}} {{action 'additionalHide'}}</p>
+  {{else}}
+    <button {{action 'additionalShow'}}>More info</button>
+  {{/if}}
+  {{update-question question=question update="update"}}
+  <button {{action 'delete' question}}>Delete Question</button>
+</li>
